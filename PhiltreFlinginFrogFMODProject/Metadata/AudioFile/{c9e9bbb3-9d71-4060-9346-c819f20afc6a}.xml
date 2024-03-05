@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{c9e9bbb3-9d71-4060-9346-c819f20afc6a}">
+		<property name="assetPath">
+			<value>BrewingStomachSFXLoopMK1.ogg</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>11.513786848072563</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{d30bf568-67d9-4ab4-9eff-b59c67f2254a}</destination>
+		</relationship>
+	</object>
+</objects>

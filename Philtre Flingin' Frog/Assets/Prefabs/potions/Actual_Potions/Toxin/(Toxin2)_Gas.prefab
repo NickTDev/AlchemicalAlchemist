@@ -1,0 +1,104 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &1158266205218143865
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 704985560176158600, guid: ae0fe77028efdff4c9f233f5be4f86c8, type: 3}
+      propertyPath: type
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 704985560176158600, guid: ae0fe77028efdff4c9f233f5be4f86c8, type: 3}
+      propertyPath: itemName
+      value: Burn-Fuel
+      objectReference: {fileID: 0}
+    - target: {fileID: 704985560176158600, guid: ae0fe77028efdff4c9f233f5be4f86c8, type: 3}
+      propertyPath: itemSpecs
+      value: 3 damage per second, Increases vulnerability to flame
+      objectReference: {fileID: 0}
+    - target: {fileID: 704985560176158600, guid: ae0fe77028efdff4c9f233f5be4f86c8, type: 3}
+      propertyPath: itemFlavor
+      value: The sharp and sour scent of the potion is now clouded with the smell
+        of rotten eggs.
+      objectReference: {fileID: 0}
+    - target: {fileID: 704985560176158600, guid: ae0fe77028efdff4c9f233f5be4f86c8, type: 3}
+      propertyPath: potionTier
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 704985560176158600, guid: ae0fe77028efdff4c9f233f5be4f86c8, type: 3}
+      propertyPath: potionColor.b
+      value: 0.11512991
+      objectReference: {fileID: 0}
+    - target: {fileID: 704985560176158600, guid: ae0fe77028efdff4c9f233f5be4f86c8, type: 3}
+      propertyPath: potionColor.g
+      value: 0.7924528
+      objectReference: {fileID: 0}
+    - target: {fileID: 704985560176158600, guid: ae0fe77028efdff4c9f233f5be4f86c8, type: 3}
+      propertyPath: potionColor.r
+      value: 0.6592182
+      objectReference: {fileID: 0}
+    - target: {fileID: 704985560176158600, guid: ae0fe77028efdff4c9f233f5be4f86c8, type: 3}
+      propertyPath: elements.Array.size
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 704985560176158600, guid: ae0fe77028efdff4c9f233f5be4f86c8, type: 3}
+      propertyPath: elements.Array.data[1]
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 704985560176158600, guid: ae0fe77028efdff4c9f233f5be4f86c8, type: 3}
+      propertyPath: elements.Array.data[2]
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 704985560176158600, guid: ae0fe77028efdff4c9f233f5be4f86c8, type: 3}
+      propertyPath: elements.Array.data[3]
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 3916382521052696552, guid: ae0fe77028efdff4c9f233f5be4f86c8, type: 3}
+      propertyPath: m_Icon
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 3916382521052696552, guid: ae0fe77028efdff4c9f233f5be4f86c8, type: 3}
+      propertyPath: m_Name
+      value: (Toxin2)_Gas
+      objectReference: {fileID: 0}
+    - target: {fileID: 4233596790723409464, guid: ae0fe77028efdff4c9f233f5be4f86c8, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4233596790723409464, guid: ae0fe77028efdff4c9f233f5be4f86c8, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4233596790723409464, guid: ae0fe77028efdff4c9f233f5be4f86c8, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4233596790723409464, guid: ae0fe77028efdff4c9f233f5be4f86c8, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4233596790723409464, guid: ae0fe77028efdff4c9f233f5be4f86c8, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4233596790723409464, guid: ae0fe77028efdff4c9f233f5be4f86c8, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8090036487465904346, guid: ae0fe77028efdff4c9f233f5be4f86c8, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 0a09fa1dc7bb3974b93f2f9aa818ccfe, type: 3}
+    - target: {fileID: 9081814791557735929, guid: ae0fe77028efdff4c9f233f5be4f86c8, type: 3}
+      propertyPath: statusEffectPrefabs.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 9081814791557735929, guid: ae0fe77028efdff4c9f233f5be4f86c8, type: 3}
+      propertyPath: statusEffectPrefabs.Array.data[1]
+      value: 
+      objectReference: {fileID: 2326388852958470057, guid: f3e037c705e64a84cb4f6d08fac64681, type: 3}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ae0fe77028efdff4c9f233f5be4f86c8, type: 3}

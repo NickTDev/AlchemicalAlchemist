@@ -1,0 +1,3 @@
+MYSTERIOUS VOICE: “Help me out here, I’ve been stuck here for as long as I can remember.”
+CLORANCE: “That ball must be in trouble! Don’t worry, stranger, I’ll help you!”
+: Press E when close to objects to interact with them.

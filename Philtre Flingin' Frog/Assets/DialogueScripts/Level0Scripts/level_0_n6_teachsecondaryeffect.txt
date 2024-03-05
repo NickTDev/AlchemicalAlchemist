@@ -1,0 +1,12 @@
+BALLY-WALLY: “Catterpurrlar are tricky little things, always attacking like they’re starved wolves.”
+CLORANCE: “What is this thing they dropped?”
+BALLY-WALLY: “Crimsocal Sludge”
+BALLY-WALLY: “Good, good. This is very good.”
+BALLY-WALLY: “Now, I’m sure you know how potions use the elements provided in different ingredients.”
+CLORANCE: “Of course!”
+CLORANCE: “That’s why we classify potion ingredients into different color classes at Wizarding School.”
+BALLY-WALLY: “Yes, well, it’s the same principle. The only difference between the ingredients within a certain color category is their secondary element.”
+BALLY-WALLY: “Some places might use numbers, or even more colors, but here in The Dying Forest, we use shapes.”
+BALLY-WALLY: “And you know that if you use only one shape when it comes to brewing potions…”
+CLORANCE: “It makes a varient of the potion! The cloud acts specially after the potion bursts.”
+BALLY-WALLY: “Mhm. So try it out now that you have all of this Crimsocal Sludge.”

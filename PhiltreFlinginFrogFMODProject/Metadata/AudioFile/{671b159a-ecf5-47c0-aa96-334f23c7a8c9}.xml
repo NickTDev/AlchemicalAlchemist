@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{671b159a-ecf5-47c0-aa96-334f23c7a8c9}">
+		<property name="assetPath">
+			<value>PotionBreak12bit3MK1.ogg</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>0.56002267573696141</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{d30bf568-67d9-4ab4-9eff-b59c67f2254a}</destination>
+		</relationship>
+	</object>
+</objects>

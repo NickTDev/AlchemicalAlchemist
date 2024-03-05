@@ -1,0 +1,126 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &7474623745901741366
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 2908401497223792340, guid: bc190ab523f5b9d46b503c9ff359f626, type: 3}
+      propertyPath: m_Color.a
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5033168360392140664, guid: bc190ab523f5b9d46b503c9ff359f626, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5033168360392140664, guid: bc190ab523f5b9d46b503c9ff359f626, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5033168360392140664, guid: bc190ab523f5b9d46b503c9ff359f626, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5033168360392140664, guid: bc190ab523f5b9d46b503c9ff359f626, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5033168360392140664, guid: bc190ab523f5b9d46b503c9ff359f626, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5033168360392140664, guid: bc190ab523f5b9d46b503c9ff359f626, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5278340852509367976, guid: bc190ab523f5b9d46b503c9ff359f626, type: 3}
+      propertyPath: m_Name
+      value: Empty_Bottle
+      objectReference: {fileID: 0}
+    - target: {fileID: 8561688741871204040, guid: bc190ab523f5b9d46b503c9ff359f626, type: 3}
+      propertyPath: itemName
+      value: Empty Bottle
+      objectReference: {fileID: 0}
+    - target: {fileID: 8561688741871204040, guid: bc190ab523f5b9d46b503c9ff359f626, type: 3}
+      propertyPath: itemSpecs
+      value: Deals 1 damage
+      objectReference: {fileID: 0}
+    - target: {fileID: 8561688741871204040, guid: bc190ab523f5b9d46b503c9ff359f626, type: 3}
+      propertyPath: unlimited
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8561688741871204040, guid: bc190ab523f5b9d46b503c9ff359f626, type: 3}
+      propertyPath: itemFlavor
+      value: A potion bottle without any potion. Very sad, very sharp.
+      objectReference: {fileID: 0}
+    - target: {fileID: 8561688741871204040, guid: bc190ab523f5b9d46b503c9ff359f626, type: 3}
+      propertyPath: potionColor.a
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8561688741871204040, guid: bc190ab523f5b9d46b503c9ff359f626, type: 3}
+      propertyPath: potionColor.b
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8561688741871204040, guid: bc190ab523f5b9d46b503c9ff359f626, type: 3}
+      propertyPath: potionColor.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8561688741871204040, guid: bc190ab523f5b9d46b503c9ff359f626, type: 3}
+      propertyPath: potionColor.r
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8561688741871204040, guid: bc190ab523f5b9d46b503c9ff359f626, type: 3}
+      propertyPath: cancelSFX.Path
+      value: event:/SFX/Menu SFX/MenuCancel
+      objectReference: {fileID: 0}
+    - target: {fileID: 8561688741871204040, guid: bc190ab523f5b9d46b503c9ff359f626, type: 3}
+      propertyPath: potionCategory
+      value: Empty
+      objectReference: {fileID: 0}
+    - target: {fileID: 8561688741871204040, guid: bc190ab523f5b9d46b503c9ff359f626, type: 3}
+      propertyPath: confirmSFX.Path
+      value: event:/SFX/Menu SFX/MenuConfirm
+      objectReference: {fileID: 0}
+    - target: {fileID: 8561688741871204040, guid: bc190ab523f5b9d46b503c9ff359f626, type: 3}
+      propertyPath: interactSFX.Path
+      value: event:/SFX/Menu SFX/MenuInteract
+      objectReference: {fileID: 0}
+    - target: {fileID: 8561688741871204040, guid: bc190ab523f5b9d46b503c9ff359f626, type: 3}
+      propertyPath: cancelSFX.Guid.Data1
+      value: 2069565299
+      objectReference: {fileID: 0}
+    - target: {fileID: 8561688741871204040, guid: bc190ab523f5b9d46b503c9ff359f626, type: 3}
+      propertyPath: cancelSFX.Guid.Data2
+      value: 1113177770
+      objectReference: {fileID: 0}
+    - target: {fileID: 8561688741871204040, guid: bc190ab523f5b9d46b503c9ff359f626, type: 3}
+      propertyPath: cancelSFX.Guid.Data3
+      value: 604735901
+      objectReference: {fileID: 0}
+    - target: {fileID: 8561688741871204040, guid: bc190ab523f5b9d46b503c9ff359f626, type: 3}
+      propertyPath: cancelSFX.Guid.Data4
+      value: -1049836485
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: bc190ab523f5b9d46b503c9ff359f626, type: 3}
+--- !u!1 &3385402606018665374 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5278340852509367976, guid: bc190ab523f5b9d46b503c9ff359f626, type: 3}
+  m_PrefabInstance: {fileID: 7474623745901741366}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &7253047616621258020
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3385402606018665374}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6f95a9a34077977478420c5508e28996, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  statusEffectPrefabs: []
+  damage: 1

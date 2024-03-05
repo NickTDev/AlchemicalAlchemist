@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{d818a074-e20e-4478-a1c4-afb0f3933ec2}">
+		<property name="assetPath">
+			<value>PlayerThrow03.ogg</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>0.13936507936507936</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{d30bf568-67d9-4ab4-9eff-b59c67f2254a}</destination>
+		</relationship>
+	</object>
+</objects>

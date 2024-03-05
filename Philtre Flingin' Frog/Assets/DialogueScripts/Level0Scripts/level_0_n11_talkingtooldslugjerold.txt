@@ -1,0 +1,15 @@
+MYSTERIOUS SLUG: “Ye sure are such a wee little thing, aren’t ye…”
+CLORANCE: “Hello there, stranger! Nice to meet you, my name is Clorance G. Phincter. I’m a Wizard-In-Training!”
+MYSTERIOUS SLUG: “A wizard, eh? Been a real long time since I’ve had the pleasure of watchin’ the Dyin’ Forest suck the life outta one of ye. This’ll be real good...”
+CLORANCE: “Really good? That’s great! Thank you, stranger!.”
+OLD SLUG JEROLD: “The name’s Old Slug Jerold…”
+OLD SLUG JEROLD: “I sure can’t wait to see this forest eat ye alive, he he he…”
+OLD SLUG JEROLD: “Now, would ye like to tell what yer doin’?”
+CLORANCE: “Sure, I’m planning on making a Teleportation Potion back home!”
+OLD SLUG JEROLD: “A Teleportation Potion? How would a tadpole like ye get yer hands onto one of em?”
+CLORANCE: “I can brew potions, you see.”
+CLORANCE: “The ingredients I’m looking for are a Ghostly Feather, Dying Stardust, Anathilafken Soil, and Zorkorkle Tears!”
+OLD SLUG JEROLD: “Zorkorkle Tears? Ehehehe… How excitin’.”
+CLORANCE: “I guess it is a little exciting.”
+OLD SLUG JEROLD: “You’ll find those little fellas dripping down nearby, just try not to drink em’.”
+OLD SLUG JEROLD: “I’ll be glad to see how far this journeh’ takes ye, tadpole. Keep movin’…” 

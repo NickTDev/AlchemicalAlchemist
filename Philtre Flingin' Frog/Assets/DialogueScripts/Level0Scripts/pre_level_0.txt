@@ -1,0 +1,17 @@
+CLORANCE: “What a long day at Wizarding School, now I can get started on my homewor- Oh, what’s this?”
+CLORANCE: “Is this… It is!”
+CLORANCE: “A letter from home, from Papa too!”
+SYSTEM: *Clorance opens the letter*
+CLORANCE: “Let’s see what it says…”
+CLORANCE: “‘Dear Clorance,’”
+CLORANCE: “‘I hope this reaches you before Death reaches me.’”
+CLORANCE: “‘My pond-lung’s been getting worse recently, and the village doctor doesn’t think it’ll ease up again. I’m so proud of you, my son. I know you went to Wizarding School so you could help people, even though it’s all the way in Polliwog City, but this may be the last letter you ever receive from me.’”
+CLORANCE: “‘Love,  Papa’…”
+CLORANCE: “Papa’s in trouble, but the journey home is a week…”
+CLORANCE: “Wait, I know what to do!”
+CLORANCE: “I’ll make a Teleportation Potion!”
+SYSTEM: *Clorance begins to look through his ingredients*
+CLORANCE: “I got an A+ the last time I made this for class, this should be easy peasy.”
+CLORANCE: “I swear that once I’m home, I’ll finally cure Papa, otherwise my name wouldn’t be Clorance Ginder Phincter!”
+CLORANCE: “Here we go-”
+SYSTEM: *KA-BAM*

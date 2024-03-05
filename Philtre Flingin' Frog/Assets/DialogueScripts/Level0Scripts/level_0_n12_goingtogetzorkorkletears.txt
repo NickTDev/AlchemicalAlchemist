@@ -1,0 +1,9 @@
+BALLY-WALLY: “Hm.”
+CLORANCE: “Bally-Wally? Why haven’t you been talking?”
+BALLY-WALLY: “There was no reason for me to talk then. Continuing on this path should guide you into the Ghastly Woods…”
+CLORANCE: “Were you shy?”
+BALLY-WALLY: “What! No!”
+BALLY-WALLY: “Of course not!”
+CLORANCE: “Aw, alright.”
+BALLY-WALLY: “Let’s just keep moving, Clorance. First we get those Zorkorkle Tears from where the slug told us to get them.”
+BALLY-WALLY: “There are also plenty of Ghostly Feathers in the Ghastly Woods. Just keep looking.”

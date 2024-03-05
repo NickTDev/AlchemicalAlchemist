@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &3306686601085971481
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -549544052022012099, guid: 68798eefe40457c4dbc604128638a562, type: 3}
+      propertyPath: prmElm
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -549544052022012099, guid: 68798eefe40457c4dbc604128638a562, type: 3}
+      propertyPath: scdElm
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -549544052022012099, guid: 68798eefe40457c4dbc604128638a562, type: 3}
+      propertyPath: itemName
+      value: Ivory Caps
+      objectReference: {fileID: 0}
+    - target: {fileID: -549544052022012099, guid: 68798eefe40457c4dbc604128638a562, type: 3}
+      propertyPath: itemFlavor
+      value: Taken from the Stampedeetle, these sharp horns gleam with powerful and
+        revitalizing energy. The weight is surprisingly light.
+      objectReference: {fileID: 0}
+    - target: {fileID: 2339901498835909447, guid: 68798eefe40457c4dbc604128638a562, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 13ee8bf2e9eb00943add1f9d161eed38, type: 3}
+    - target: {fileID: 3156643320016851951, guid: 68798eefe40457c4dbc604128638a562, type: 3}
+      propertyPath: m_Name
+      value: Ivory_Caps
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829679532932223691, guid: 68798eefe40457c4dbc604128638a562, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829679532932223691, guid: 68798eefe40457c4dbc604128638a562, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829679532932223691, guid: 68798eefe40457c4dbc604128638a562, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829679532932223691, guid: 68798eefe40457c4dbc604128638a562, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829679532932223691, guid: 68798eefe40457c4dbc604128638a562, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829679532932223691, guid: 68798eefe40457c4dbc604128638a562, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 68798eefe40457c4dbc604128638a562, type: 3}

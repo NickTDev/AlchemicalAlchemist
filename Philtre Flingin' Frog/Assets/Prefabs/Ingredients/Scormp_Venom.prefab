@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &3418706699918870531
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -549544052022012099, guid: 68798eefe40457c4dbc604128638a562, type: 3}
+      propertyPath: prmElm
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: -549544052022012099, guid: 68798eefe40457c4dbc604128638a562, type: 3}
+      propertyPath: scdElm
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -549544052022012099, guid: 68798eefe40457c4dbc604128638a562, type: 3}
+      propertyPath: itemName
+      value: Scormp Venom
+      objectReference: {fileID: 0}
+    - target: {fileID: -549544052022012099, guid: 68798eefe40457c4dbc604128638a562, type: 3}
+      propertyPath: itemFlavor
+      value: "Harvested from the stingers of a Kriller Scormp, this venom is potent
+        enough to amplify any concoction into a dangerous substance. Make sure you
+        handle it with care, or it\u2019ll handle you instead."
+      objectReference: {fileID: 0}
+    - target: {fileID: 2339901498835909447, guid: 68798eefe40457c4dbc604128638a562, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 7ef5f1ce52f4f624c97a6e55b28ee679, type: 3}
+    - target: {fileID: 3156643320016851951, guid: 68798eefe40457c4dbc604128638a562, type: 3}
+      propertyPath: m_Name
+      value: Scormp_Venom
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829679532932223691, guid: 68798eefe40457c4dbc604128638a562, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829679532932223691, guid: 68798eefe40457c4dbc604128638a562, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829679532932223691, guid: 68798eefe40457c4dbc604128638a562, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829679532932223691, guid: 68798eefe40457c4dbc604128638a562, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829679532932223691, guid: 68798eefe40457c4dbc604128638a562, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829679532932223691, guid: 68798eefe40457c4dbc604128638a562, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 68798eefe40457c4dbc604128638a562, type: 3}

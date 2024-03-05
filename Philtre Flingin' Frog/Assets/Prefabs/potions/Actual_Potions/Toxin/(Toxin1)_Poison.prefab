@@ -1,0 +1,122 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &9158534030355190080
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1106816232100690330, guid: bc190ab523f5b9d46b503c9ff359f626, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 8681d3cc2c613c94eb7f55abc490604c, type: 3}
+    - target: {fileID: 2908401497223792340, guid: bc190ab523f5b9d46b503c9ff359f626, type: 3}
+      propertyPath: m_Color.b
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2908401497223792340, guid: bc190ab523f5b9d46b503c9ff359f626, type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2908401497223792340, guid: bc190ab523f5b9d46b503c9ff359f626, type: 3}
+      propertyPath: m_Color.r
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5033168360392140664, guid: bc190ab523f5b9d46b503c9ff359f626, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5033168360392140664, guid: bc190ab523f5b9d46b503c9ff359f626, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5033168360392140664, guid: bc190ab523f5b9d46b503c9ff359f626, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5033168360392140664, guid: bc190ab523f5b9d46b503c9ff359f626, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5033168360392140664, guid: bc190ab523f5b9d46b503c9ff359f626, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5033168360392140664, guid: bc190ab523f5b9d46b503c9ff359f626, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5278340852509367976, guid: bc190ab523f5b9d46b503c9ff359f626, type: 3}
+      propertyPath: m_Icon
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 5278340852509367976, guid: bc190ab523f5b9d46b503c9ff359f626, type: 3}
+      propertyPath: m_Name
+      value: (Toxin1)_Poison
+      objectReference: {fileID: 0}
+    - target: {fileID: 8561688741871204040, guid: bc190ab523f5b9d46b503c9ff359f626, type: 3}
+      propertyPath: type
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 8561688741871204040, guid: bc190ab523f5b9d46b503c9ff359f626, type: 3}
+      propertyPath: itemName
+      value: Acid
+      objectReference: {fileID: 0}
+    - target: {fileID: 8561688741871204040, guid: bc190ab523f5b9d46b503c9ff359f626, type: 3}
+      propertyPath: itemSpecs
+      value: 2 damage per second
+      objectReference: {fileID: 0}
+    - target: {fileID: 8561688741871204040, guid: bc190ab523f5b9d46b503c9ff359f626, type: 3}
+      propertyPath: itemFlavor
+      value: Chartreuse and acidic, the potion gives off pungent yellow fumes.
+      objectReference: {fileID: 0}
+    - target: {fileID: 8561688741871204040, guid: bc190ab523f5b9d46b503c9ff359f626, type: 3}
+      propertyPath: potionColor.b
+      value: 0.18431373
+      objectReference: {fileID: 0}
+    - target: {fileID: 8561688741871204040, guid: bc190ab523f5b9d46b503c9ff359f626, type: 3}
+      propertyPath: potionColor.g
+      value: 0.909804
+      objectReference: {fileID: 0}
+    - target: {fileID: 8561688741871204040, guid: bc190ab523f5b9d46b503c9ff359f626, type: 3}
+      propertyPath: potionColor.r
+      value: 0.8980393
+      objectReference: {fileID: 0}
+    - target: {fileID: 8561688741871204040, guid: bc190ab523f5b9d46b503c9ff359f626, type: 3}
+      propertyPath: potionCategory
+      value: Toxin
+      objectReference: {fileID: 0}
+    - target: {fileID: 8561688741871204040, guid: bc190ab523f5b9d46b503c9ff359f626, type: 3}
+      propertyPath: itemDescription
+      value: Icky Icky
+      objectReference: {fileID: 0}
+    - target: {fileID: 8561688741871204040, guid: bc190ab523f5b9d46b503c9ff359f626, type: 3}
+      propertyPath: elements.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 8561688741871204040, guid: bc190ab523f5b9d46b503c9ff359f626, type: 3}
+      propertyPath: elements.Array.data[1]
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: bc190ab523f5b9d46b503c9ff359f626, type: 3}
+--- !u!1 &3916382521052696552 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5278340852509367976, guid: bc190ab523f5b9d46b503c9ff359f626, type: 3}
+  m_PrefabInstance: {fileID: 9158534030355190080}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &9081814791557735929
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3916382521052696552}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5719de64fba7357468042e26d8145e43, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  statusEffectPrefabs:
+  - {fileID: 265791190984375445, guid: 3a91b8492e8635e4396483c9d93ac13a, type: 3}

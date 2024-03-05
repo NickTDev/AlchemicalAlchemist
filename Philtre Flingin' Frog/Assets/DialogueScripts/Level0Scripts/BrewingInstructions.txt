@@ -1,0 +1,3 @@
+BALLY-WALLY: "Great, now that you have those ingredients we can get to brewing!
+BALLY-WALLY: "Whenever you're ready, use this recipe for a sting potion. Just add any red, dangerous looking ingredients like these together, and there you go."
+: Press tab to open the brewing menu.

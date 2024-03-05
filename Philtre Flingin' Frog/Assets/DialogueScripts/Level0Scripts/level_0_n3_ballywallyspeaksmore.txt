@@ -1,0 +1,33 @@
+MYSTERIOUS VOICE: “Thank you, that’s a lot better..”
+CLORANCE: “Who are you?”
+MYSTERIOUS VOICE: “My, er, name? Right, right…”
+MYSTERIOUS VOICE: “I’m…”
+MYSTERIOUS VOICE: “Well, let’s just say I can’t remember my name.”
+CLORANCE: “You sure are strange, not knowing your name—”
+CLORANCE:  “Oh! I’ve got it!”
+CLORANCE: “How about Bally-Wally?”
+BALLY-WALLY: “Bally…Wally?… That can work.”
+CLORANCE: “Hello Bally-Wally, I’m Clorance G. Phincter!”
+BALLY-WALLY: “...”
+BALLY-WALLY: “Hi… Clorance.”
+CLORANCE: “Hello again!”
+BALLY-WALLY: “Let me just get a real good look at you…”
+CLORANCE: “Uh, okay?”
+BALLY-WALLY: “My, my, it is you.”
+CLORANCE: “Huh? What do you mean ‘it is’ me?”
+BALLY-WALLY: “Don’t worry, I’m just noting that your face is your own.”
+BALLY-WALLY: “What seems to be the problem?”
+CLORANCE: “Well… Do you know where we are, Bally-Wally?”
+CLORANCE: “I was trying to go home, and I think my Teleportation Potion must’ve messed up my destination.”
+BALLY-WALLY: “We’re in the Ghastly Woods, one of the areas within the Dying Forest.”
+CLORANCE: “Can you help point me to Tadpolli Village? I have to get home to help my Papa.”
+BALLY-WALLY: “Er, Tadpolli Village… Yes, I think I could help.”
+CLORANCE: “Really?! Then it sure is convenient I found you immediately.”
+BALLY-WALLY: “We can make a new ‘Teleportation Potion’ together.”
+CLORANCE: “That’d be great! Except… I don’t think I can recognize any of the ingredients here.”
+BALLY-WALLY: “That’s because you’re not a local! I’m quite a useful companion to have, I’ll show you exactly where the ingredients needed are.”
+BALLY-WALLY: “You’ll need a Ghostly Feather, a pinch of Anathilafken Soil, some Zorkorkle Tears of course, also Dying Stardust…”
+CLORANCE: “Wait, where do I find all of those things?”
+BALLY-WALLY: “Well, I’ll… I’ll show you where!”
+CLORANCE: “Really? You’re the best, Bally-Wally.”
+BALLY-WALLY: “Yes, yes, I know everything around these parts. I’ll get you home in no time. Keep following this path and I'll tell you exactly what to do.”

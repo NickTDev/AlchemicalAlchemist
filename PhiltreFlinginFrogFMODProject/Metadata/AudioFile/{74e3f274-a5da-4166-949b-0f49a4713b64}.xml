@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{74e3f274-a5da-4166-949b-0f49a4713b64}">
+		<property name="assetPath">
+			<value>PotionExplode12bit02.ogg</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>0.5264399092970522</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{d30bf568-67d9-4ab4-9eff-b59c67f2254a}</destination>
+		</relationship>
+	</object>
+</objects>

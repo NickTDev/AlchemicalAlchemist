@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{ab180e19-b319-433e-b5c4-eac67f90fcdf}">
+		<property name="name">
+			<value>BreakType</value>
+		</property>
+		<relationship name="folder">
+			<destination>{9a81539c-c17d-4255-b3a6-5bd3972c9218}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{a77d02af-edef-423b-8fda-d5183270ad86}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{a77d02af-edef-423b-8fda-d5183270ad86}">
+		<property name="parameterType">
+			<value>2</value>
+		</property>
+		<property name="maximum">
+			<value>4</value>
+		</property>
+		<property name="enumerationLabels">
+			<value>Normal</value>
+			<value>Aerosolize</value>
+			<value>Explode</value>
+			<value>Aerosolize+Explode</value>
+		</property>
+		<property name="isHeld">
+			<value>true</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

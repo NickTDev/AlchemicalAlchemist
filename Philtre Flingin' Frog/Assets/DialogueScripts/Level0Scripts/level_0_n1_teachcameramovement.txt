@@ -1,0 +1,7 @@
+CLORANCE: “Ow-Ow-Owie!”
+CLORANCE: “What the- Where am I?”
+CLORANCE: “This isn’t my village… and it sure can’t be Polliwog City!”
+MYSTERIOUS VOICE: “Wait a minute… Hey, you there!”
+CLORANCE: “Me?”
+MYSTERIOUS VOICE: “Yeah you, turn around.”
+: Use the mouse to reposition the camera and WASD to move.

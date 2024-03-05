@@ -1,0 +1,15 @@
+BALLY-WALLY: A Goo Potion is always a good way to start, especially if combined with the Sting Potion.
+BALLY-WALLY: Try this recipe, but I’d heavily advise against tasting it.
+CLORANCE: What’s wrong with a taste of good old goo?
+BALLY-WALLY: You’ll feel like you need to swallow over and over again for weeks.
+[Unlocks Goo Potion Recipe]
+[Player makes Goo Potion]
+BALLY-WALLY: Only a few meters ahead are where a handful of Kriller Scormp enjoy nesting. They’re small buggers, but they’ll overrun anybody stupid enough to get close.
+CLORANCE: So I should… avoid them?
+BALLY-WALLY: No, get close to them.
+CLORANCE: But you just said…
+BALLY-WALLY: The Goo Potion works incredibly well against them, and they drop some rare potion ingredients… Maybe you’ll find something you can use for your… Papa.
+CLORANCE: Ohhh.
+CLORANCE: I knew it, you were just looking out for me. You’re so considerate, Bally-Wally.
+BALLY-WALLY: I am.
+CLORANCE: I’ll go disturb them right away!

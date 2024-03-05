@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="Workspace" id="{8ee785da-98d8-451a-bf6a-95bfadff7f19}">
+		<property name="builtBanksOutputDirectory">
+			<value>../Philtre Flingin' Frog/Assets/Plugins/FMOD/Banks</value>
+		</property>
+		<relationship name="masterEventFolder">
+			<destination>{b7362003-16f7-47e4-b92e-886a821630f6}</destination>
+		</relationship>
+		<relationship name="masterTagFolder">
+			<destination>{1f7eae09-b727-4438-a5c7-cf39c19f29f9}</destination>
+		</relationship>
+		<relationship name="masterEffectPresetFolder">
+			<destination>{a3fcfea4-fcbf-4180-a04b-6bc5b8e31517}</destination>
+		</relationship>
+		<relationship name="masterParameterPresetFolder">
+			<destination>{9a81539c-c17d-4255-b3a6-5bd3972c9218}</destination>
+		</relationship>
+		<relationship name="masterBankFolder">
+			<destination>{0717d4e4-53ba-43f1-b0c3-599b68e7b76c}</destination>
+		</relationship>
+		<relationship name="masterSandboxFolder">
+			<destination>{404a593f-d22d-4639-ad1b-d6a003f89d47}</destination>
+		</relationship>
+		<relationship name="masterAssetFolder">
+			<destination>{d30bf568-67d9-4ab4-9eff-b59c67f2254a}</destination>
+		</relationship>
+		<relationship name="mixer">
+			<destination>{40faaf76-2cf3-4267-a9e6-fd1d5c08d349}</destination>
+		</relationship>
+		<relationship name="profilerSessionFolder">
+			<destination>{5953353a-176f-453c-b708-486061532801}</destination>
+		</relationship>
+		<relationship name="platforms">
+			<destination>{2abead39-373f-4d84-a9eb-d8280a957b91}</destination>
+		</relationship>
+	</object>
+</objects>

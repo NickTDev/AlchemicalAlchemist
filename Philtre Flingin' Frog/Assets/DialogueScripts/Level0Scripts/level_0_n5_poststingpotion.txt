@@ -1,0 +1,11 @@
+CLORANCE: “You sure are trustworthy, Bally-Wally! I’m glad we’re friends.”
+BALLY-WALLY: “Yes. Yes, I am very trustworthy.”
+BALLY-WALLY: “Now, go further up this path.”
+CLORANCE: “Aww, those things look so cute.”
+BALLY-WALLY: “I want you to kill them.”
+CLORANCE: “K-Kill them?”
+BALLY-WALLY: “I want you to attack them until they drop something.”
+CLORANCE: “Attack them? Well, if you say so, Bally-Wally.”
+BALLY-WALLY: "But don't go wasting those sting potions! If you can't kill it with those, you'll just have to chuck some glass bottles at it until it dies."
+CLORANCE: "Sounds brutal... but Okay!"
+: User numbers 1-5 or scrool wheel to select a potion. Click and hold left mouse to charge your attack and release to throw.

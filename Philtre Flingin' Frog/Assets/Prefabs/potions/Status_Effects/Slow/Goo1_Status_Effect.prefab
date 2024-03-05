@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &3690511638355277761
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1591094703666850693, guid: 0d40337bf101c9646b8abcb9cf1ae655, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1591094703666850693, guid: 0d40337bf101c9646b8abcb9cf1ae655, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1591094703666850693, guid: 0d40337bf101c9646b8abcb9cf1ae655, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1591094703666850693, guid: 0d40337bf101c9646b8abcb9cf1ae655, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1591094703666850693, guid: 0d40337bf101c9646b8abcb9cf1ae655, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1591094703666850693, guid: 0d40337bf101c9646b8abcb9cf1ae655, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1591094703666850693, guid: 0d40337bf101c9646b8abcb9cf1ae655, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1591094703666850693, guid: 0d40337bf101c9646b8abcb9cf1ae655, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1591094703666850693, guid: 0d40337bf101c9646b8abcb9cf1ae655, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1591094703666850693, guid: 0d40337bf101c9646b8abcb9cf1ae655, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1591094703666850693, guid: 0d40337bf101c9646b8abcb9cf1ae655, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1591094703666850694, guid: 0d40337bf101c9646b8abcb9cf1ae655, type: 3}
+      propertyPath: m_Name
+      value: Goo1_Status_Effect
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 0d40337bf101c9646b8abcb9cf1ae655, type: 3}
+--- !u!1 &2676229975778860103 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1591094703666850694, guid: 0d40337bf101c9646b8abcb9cf1ae655, type: 3}
+  m_PrefabInstance: {fileID: 3690511638355277761}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &-3494951612707676161
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2676229975778860103}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 72a892202ca99784d9b919b972306175, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  particlePrefab: {fileID: 7415176917388479450, guid: 40ae9a4716b294647b09de11ffe1b6a0, type: 3}
+  isGood: 0
+  effectName: Goo
+  canStack: 0
+  durationSeconds: 5
+  speedModification: -0.5

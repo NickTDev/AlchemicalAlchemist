@@ -1,0 +1,9 @@
+BALLY-WALLY: “You see those red roots dotted with holes, sticking out the ground all the way over there?”
+CLORANCE: “I sure do, Bally-Wally.”
+BALLY-WALLY: “You’ll want to harvest those before we leave the Ghastly Woods.”
+CLORANCE: “Alrighty.”
+BALLY-WALLY: “You should  also find some Blood Lily Petals. They attract quite a few flies..”
+CLORANCE: “Flies? I love flies!”
+BALLY-WALLY: “Avoid eating them and focus on your task.”
+CLORANCE: “Awww, alright.”
+BALLY-WALLY: “I’ll teach you how to make a ‘Sting Potion’, so listen close: You just take some Blood Lily Petals, equal out the amount with Qrackle Root, and brew it together!”

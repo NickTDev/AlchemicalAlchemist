@@ -1,0 +1,6 @@
+CLORANCE: “What was that?”
+BALLY-WALLY: “Nothing really.”
+CLORANCE: “I heard laughter though.”
+BALLY-WALLY: “Trust me, around these parts, that kind of laughter happens all the time. Anywhere. Sometimes, for no reason.”
+CLORANCE: “So I shouldn’t walk towards it?”
+BALLY-WALLY: “No, you should, that’s the direction we need to go in.”

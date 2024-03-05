@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &1653395927463729423
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 3890104261003522059, guid: 0adbb7e054e5bf24ab749620b194fdbe, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: e4ced741b143322419a72509cfaef969, type: 3}
+    - target: {fileID: 5508294619895955289, guid: 0adbb7e054e5bf24ab749620b194fdbe, type: 3}
+      propertyPath: type
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 5508294619895955289, guid: 0adbb7e054e5bf24ab749620b194fdbe, type: 3}
+      propertyPath: itemName
+      value: Sticky Situation
+      objectReference: {fileID: 0}
+    - target: {fileID: 5508294619895955289, guid: 0adbb7e054e5bf24ab749620b194fdbe, type: 3}
+      propertyPath: itemSpecs
+      value: -75% speed
+      objectReference: {fileID: 0}
+    - target: {fileID: 5508294619895955289, guid: 0adbb7e054e5bf24ab749620b194fdbe, type: 3}
+      propertyPath: itemFlavor
+      value: This concoction is even more viscous than the last, feeling twice as
+        dense.
+      objectReference: {fileID: 0}
+    - target: {fileID: 5508294619895955289, guid: 0adbb7e054e5bf24ab749620b194fdbe, type: 3}
+      propertyPath: potionTier
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5508294619895955289, guid: 0adbb7e054e5bf24ab749620b194fdbe, type: 3}
+      propertyPath: potionColor.b
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5508294619895955289, guid: 0adbb7e054e5bf24ab749620b194fdbe, type: 3}
+      propertyPath: potionColor.g
+      value: 0.37169808
+      objectReference: {fileID: 0}
+    - target: {fileID: 5508294619895955289, guid: 0adbb7e054e5bf24ab749620b194fdbe, type: 3}
+      propertyPath: potionColor.r
+      value: 0.56265265
+      objectReference: {fileID: 0}
+    - target: {fileID: 5508294619895955289, guid: 0adbb7e054e5bf24ab749620b194fdbe, type: 3}
+      propertyPath: elements.Array.size
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 5508294619895955289, guid: 0adbb7e054e5bf24ab749620b194fdbe, type: 3}
+      propertyPath: elements.Array.data[2]
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 6410107089638919673, guid: 0adbb7e054e5bf24ab749620b194fdbe, type: 3}
+      propertyPath: statusEffectPrefabs.Array.data[0]
+      value: 
+      objectReference: {fileID: 1704064495579085305, guid: 4cc633dde79417c4c919c8579b334dd3, type: 3}
+    - target: {fileID: 8349727874536085305, guid: 0adbb7e054e5bf24ab749620b194fdbe, type: 3}
+      propertyPath: m_Name
+      value: (Slow2)_Muck
+      objectReference: {fileID: 0}
+    - target: {fileID: 9185436401969065705, guid: 0adbb7e054e5bf24ab749620b194fdbe, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9185436401969065705, guid: 0adbb7e054e5bf24ab749620b194fdbe, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9185436401969065705, guid: 0adbb7e054e5bf24ab749620b194fdbe, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9185436401969065705, guid: 0adbb7e054e5bf24ab749620b194fdbe, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9185436401969065705, guid: 0adbb7e054e5bf24ab749620b194fdbe, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9185436401969065705, guid: 0adbb7e054e5bf24ab749620b194fdbe, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 0adbb7e054e5bf24ab749620b194fdbe, type: 3}

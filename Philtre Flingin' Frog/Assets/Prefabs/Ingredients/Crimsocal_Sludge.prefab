@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &6223429116920712458
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -549544052022012099, guid: 68798eefe40457c4dbc604128638a562, type: 3}
+      propertyPath: prmElm
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -549544052022012099, guid: 68798eefe40457c4dbc604128638a562, type: 3}
+      propertyPath: scdElm
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -549544052022012099, guid: 68798eefe40457c4dbc604128638a562, type: 3}
+      propertyPath: itemName
+      value: Crimsocal Sludge
+      objectReference: {fileID: 0}
+    - target: {fileID: -549544052022012099, guid: 68798eefe40457c4dbc604128638a562, type: 3}
+      propertyPath: itemFlavor
+      value: A goopy, bubbly, and red mixture produced by Catterpurrlars to keep
+        their fur coats shiny. The substance dries quickly, leaving you with the
+        crumbling pieces of the sludge to brew with.
+      objectReference: {fileID: 0}
+    - target: {fileID: 3156643320016851951, guid: 68798eefe40457c4dbc604128638a562, type: 3}
+      propertyPath: m_Name
+      value: Crimsocal_Sludge
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829679532932223691, guid: 68798eefe40457c4dbc604128638a562, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829679532932223691, guid: 68798eefe40457c4dbc604128638a562, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829679532932223691, guid: 68798eefe40457c4dbc604128638a562, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829679532932223691, guid: 68798eefe40457c4dbc604128638a562, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829679532932223691, guid: 68798eefe40457c4dbc604128638a562, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829679532932223691, guid: 68798eefe40457c4dbc604128638a562, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 68798eefe40457c4dbc604128638a562, type: 3}

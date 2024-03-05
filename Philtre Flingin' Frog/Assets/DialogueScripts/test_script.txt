@@ -1,0 +1,7 @@
+Clorence: My name is <b>Clorence</b>, and I'm a potion enthusiast!
+Bally-Wally: Cool, bro. Use <b>WASD</b> or <b>the Arrow keys</b> to move. Use <b>Tab</b> to access the brewing menu.
+Clorence: What can I do there?
+Bally-Wally: Select a potion recipe, then drag in the ingredients you want to use. Click the potion bottle to craft it.
+Clorence: Neat! What can I do with these potions?
+Bally-Wally: Use the <b>0 through 5 keys</b> or <i>mouse wheel</i> to select a potion from your hotbar.
+Bally-Wally: Hold down <i>left mouse</i> to charge your throwing power, then release while looking in the direction you want to throw.
